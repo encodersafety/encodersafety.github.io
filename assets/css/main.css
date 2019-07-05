@@ -131,8 +131,13 @@ body{
 	letter-spacing: 6px;
 }
 .intro{
+<<<<<<< HEAD
 	padding: 200px 0;
     background-image: url(../images/b12.jpg);
+=======
+	padding: 100px 0;
+    background-image: url(../images/header.jpg);
+>>>>>>> 8d0458d63e49ee3608c658b27645c8b6c2d076a2
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -240,6 +245,7 @@ body{
 =======================================================================*/
 .product .section-bg{
 	background-color: #fff;
+	
 }
 .porduct-box{
 	margin-bottom: 30px;
